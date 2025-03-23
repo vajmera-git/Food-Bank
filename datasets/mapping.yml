@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 Insert Account:
   sf_object: Account
   fields:
@@ -18,6 +17,3 @@ Insert Delivery__c:
     Supplier__c:
       table:
       - Account
-=======
-{}
->>>>>>> Stashed changes
